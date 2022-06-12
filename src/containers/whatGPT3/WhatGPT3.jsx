@@ -5,16 +5,19 @@ import './whatGPT3.css';
 const WhatGPT3 = () => (
   <div className="gpt3__whatgpt3 section__margin" id="wgpt3">
     <div className="gpt3__whatgpt3-feature">
-      <Feature title="What is GPT-3" text="We so opinion friends me message as delight. Whole front do of plate heard oh ought. His defective nor convinced residence own. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by." />
+      <Feature title="Keep Track" text="Menstruation, or period, is normal vaginal bleeding that occurs as part of a woman's monthly cycle. 
+      Every month, your body prepares for pregnancy. If no pregnancy occurs, the uterus, or womb, sheds its lining. 
+      The menstrual blood is partly blood and partly tissue from inside the uterus.
+      Don't forget your date, Register yourself and get mails on your upcoming periods." />
     </div>
     <div className="gpt3__whatgpt3-heading">
-      <h1 className="gradient__text">The possibilities are beyond your imagination</h1>
-      <p>Explore the Library</p>
+      <h1 className="gradient__text">Mark you Calendar</h1>
+      <p>Keep track of your cycle!</p>
     </div>
     <div className="gpt3__whatgpt3-container">
-      <Feature title="Chatbots" text="We so opinion friends me message as delight. Whole front do of plate heard oh ought." />
-      <Feature title="Knowledgebase" text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b" />
-      <Feature title="Education" text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b" />
+      <Feature title="When does your next cycle begin?" text="Log in your period dates once and receive notification about your next period and when are you ovulating!" />
+      <Feature title="Feeling Grumpy?" text="You are probably going through PMS! PMS refers to the diverse range of physical and psychological symptoms that people experience before their menstrual period." />
+      <Feature title="Pimples and Acne?" text="Just before your period starts, estrogen and progesterone levels drop. This can trigger your sebaceous glands to secrete more sebum. Too much can result in clogged pores and breakouts" />
     </div>
   </div>
 );

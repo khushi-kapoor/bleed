@@ -8,10 +8,10 @@ const Possibility = () => (
       <img src={possibilityImage} alt="possibility" />
     </div>
     <div className="gpt3__possibility-content">
-      <h4>Request Early Access to Get Started</h4>
-      <h1 className="gradient__text">The possibilities are <br /> beyond your imagination</h1>
-      <p>Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment. Party we years to order allow asked of.</p>
-      <h4>Request Early Access to Get Started</h4>
+      
+      <h1 className="gradient__text">Connect with women <br /> who feel the same way as you do!</h1>
+      <p>Lets us speak to each other and discuss outspokenly whatever we feel like. Lets Chat and make everything familier and nothing private that people or many girls itself are shy to speak about.</p>
+      <h4>Join the Community</h4>
     </div>
   </div>
 );
